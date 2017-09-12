@@ -1,10 +1,10 @@
 #ifndef CPPUNIT_TESTCASE_H
 #define CPPUNIT_TESTCASE_H
 
-#include <cppunit/Portability.h>
-#include <cppunit/TestLeaf.h>
-#include <cppunit/TestAssert.h>
-#include <cppunit/TestFixture.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestLeaf.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestAssert.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestFixture.h>
 #include <string>
 
 

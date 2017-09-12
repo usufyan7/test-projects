@@ -7,12 +7,12 @@
 
 /* include platform specific config */
 #if defined(__BORLANDC__)
-#  include <cppunit/config/config-bcb5.h>
+#  include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/config/config-bcb5.h>
 #elif defined (_MSC_VER)
 #  if _MSC_VER == 1200 && defined(_WIN32_WCE) //evc4
-#    include <cppunit/config/config-evc4.h>
+#    include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/config/config-evc4.h>
 #  else
-#    include <cppunit/config/config-msvc6.h>
+#    include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/config/config-msvc6.h>
 #  endif
 #else
 #    include <cppunit/config-auto.h>
@@ -23,8 +23,8 @@
 #define CPPUNIT_VERSION  "1.12.0"
 #endif
  
-#include <cppunit/config/CppUnitApi.h>    // define CPPUNIT_API & CPPUNIT_NEED_DLL_DECL
-#include <cppunit/config/SelectDllLoader.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/config/CppUnitApi.h>    // define CPPUNIT_API & CPPUNIT_NEED_DLL_DECL
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/config/SelectDllLoader.h>
 
 
 /* Options that the library user may switch on or off.

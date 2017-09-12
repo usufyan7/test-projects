@@ -1,8 +1,8 @@
 #ifndef CPPUNIT_TESTSUCCESSLISTENER_H
 #define CPPUNIT_TESTSUCCESSLISTENER_H
 
-#include <cppunit/SynchronizedObject.h>
-#include <cppunit/TestListener.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/SynchronizedObject.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestListener.h>
 
 
 CPPUNIT_NS_BEGIN

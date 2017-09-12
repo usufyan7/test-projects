@@ -1,9 +1,9 @@
 #ifndef CPPUNIT_EXCEPTION_H
 #define CPPUNIT_EXCEPTION_H
 
-#include <cppunit/Portability.h>
-#include <cppunit/Message.h>
-#include <cppunit/SourceLine.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Message.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/SourceLine.h>
 #include <exception>
 
 

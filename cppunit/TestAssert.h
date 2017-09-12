@@ -1,10 +1,10 @@
 #ifndef CPPUNIT_TESTASSERT_H
 #define CPPUNIT_TESTASSERT_H
 
-#include <cppunit/Portability.h>
-#include <cppunit/Exception.h>
-#include <cppunit/Asserter.h>
-#include <cppunit/portability/Stream.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Exception.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Asserter.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/Stream.h>
 #include <stdio.h>
 #include <float.h> // For struct assertion_traits<double>
 

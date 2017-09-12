@@ -1,7 +1,7 @@
 #ifndef CPPUNIT_TESTCOMPSITE_H    // -*- C++ -*-
 #define CPPUNIT_TESTCOMPSITE_H
 
-#include <cppunit/Test.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Test.h>
 #include <string>
 
 CPPUNIT_NS_BEGIN

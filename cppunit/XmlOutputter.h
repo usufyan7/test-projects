@@ -1,17 +1,17 @@
 #ifndef CPPUNIT_XMLTESTRESULTOUTPUTTER_H
 #define CPPUNIT_XMLTESTRESULTOUTPUTTER_H
 
-#include <cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
 
 #if CPPUNIT_NEED_DLL_DECL
 #pragma warning( push )
 #pragma warning( disable: 4251 )  // X needs to have dll-interface to be used by clients of class Z
 #endif
 
-#include <cppunit/Outputter.h>
-#include <cppunit/portability/CppUnitDeque.h>
-#include <cppunit/portability/CppUnitMap.h>
-#include <cppunit/portability/Stream.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Outputter.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/CppUnitDeque.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/CppUnitMap.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/Stream.h>
 
 
 CPPUNIT_NS_BEGIN

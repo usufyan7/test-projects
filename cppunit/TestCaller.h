@@ -1,12 +1,12 @@
 #ifndef CPPUNIT_TESTCALLER_H    // -*- C++ -*-
 #define CPPUNIT_TESTCALLER_H
 
-#include <cppunit/Exception.h>
-#include <cppunit/TestCase.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Exception.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestCase.h>
 
 
 #if CPPUNIT_USE_TYPEINFO_NAME
-#  include <cppunit/extensions/TypeInfoHelper.h>
+#  include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/extensions/TypeInfoHelper.h>
 #endif
 
 

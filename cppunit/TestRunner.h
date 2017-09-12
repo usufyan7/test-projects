@@ -1,7 +1,7 @@
 #ifndef CPPUNIT_TESTRUNNER_H
 #define CPPUNIT_TESTRUNNER_H
 
-#include <cppunit/TestSuite.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestSuite.h>
 #include <string>
 
 CPPUNIT_NS_BEGIN

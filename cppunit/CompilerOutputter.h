@@ -1,9 +1,9 @@
 #ifndef CPPUNIT_COMPILERTESTRESULTOUTPUTTER_H
 #define CPPUNIT_COMPILERTESTRESULTOUTPUTTER_H
 
-#include <cppunit/Portability.h>
-#include <cppunit/Outputter.h>
-#include <cppunit/portability/Stream.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Outputter.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/Stream.h>
 
 CPPUNIT_NS_BEGIN
 

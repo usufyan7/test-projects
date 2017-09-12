@@ -1,9 +1,9 @@
 #ifndef CPPUNIT_TEXTTESTRESULT_H
 #define CPPUNIT_TEXTTESTRESULT_H
 
-#include <cppunit/TestResult.h>
-#include <cppunit/TestResultCollector.h>
-#include <cppunit/portability/Stream.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestResult.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestResultCollector.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/Stream.h>
 
 CPPUNIT_NS_BEGIN
 

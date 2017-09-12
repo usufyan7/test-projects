@@ -1,15 +1,15 @@
 #ifndef CPPUNIT_TESTRESULT_H
 #define CPPUNIT_TESTRESULT_H
 
-#include <cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
 
 #if CPPUNIT_NEED_DLL_DECL
 #pragma warning( push )
 #pragma warning( disable: 4251 )  // X needs to have dll-interface to be used by clients of class Z
 #endif
 
-#include <cppunit/SynchronizedObject.h>
-#include <cppunit/portability/CppUnitDeque.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/SynchronizedObject.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/CppUnitDeque.h>
 #include <string>
 
 CPPUNIT_NS_BEGIN
