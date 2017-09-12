@@ -6,7 +6,7 @@
 #ifndef CPPUNIT_QTUI_QTTESTRUNNER_H
 #define CPPUNIT_QTUI_QTTESTRUNNER_H
 
-#include <cppunit/portability/CppUnitVector.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/CppUnitVector.h>
 #include "Config.h"
 
 CPPUNIT_NS_BEGIN

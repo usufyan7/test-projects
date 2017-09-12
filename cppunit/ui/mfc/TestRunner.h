@@ -1,7 +1,7 @@
 #ifndef CPPUNITUI_MFC_TESTRUNNER_H
 #define CPPUNITUI_MFC_TESTRUNNER_H
 
-#include <cppunit/ui/mfc/MfcTestRunner.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/ui/mfc/MfcTestRunner.h>
 
 CPPUNIT_NS_BEGIN
 

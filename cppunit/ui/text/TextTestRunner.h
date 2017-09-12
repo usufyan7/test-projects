@@ -2,9 +2,9 @@
 #define CPPUNIT_UI_TEXT_TEXTTESTRUNNER_H
 
 
-#include <cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
 #include <string>
-#include <cppunit/TestRunner.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestRunner.h>
 
 CPPUNIT_NS_BEGIN
 

@@ -5,8 +5,8 @@
 #pragma once
 #endif // _MSC_VER >= 1000
 
-#include <cppunit/Portability.h>
-#include <cppunit/portability/CppUnitVector.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/CppUnitVector.h>
 
 /* Refer to MSDN documentation to know how to write and use MFC extension DLL:
    mk:@MSITStore:h:\DevStudio\MSDN\98VSa\1036\vcmfc.chm::/html/_mfcnotes_tn033.htm#_mfcnotes_how_to_write_an_mfc_extension_dll
