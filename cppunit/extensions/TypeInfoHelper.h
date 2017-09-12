@@ -1,7 +1,7 @@
 #ifndef CPPUNIT_TYPEINFOHELPER_H
 #define CPPUNIT_TYPEINFOHELPER_H
 
-#include <cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
 
 #if CPPUNIT_HAVE_RTTI
 

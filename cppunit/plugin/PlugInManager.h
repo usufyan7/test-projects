@@ -1,7 +1,7 @@
 #ifndef CPPUNIT_PLUGIN_PLUGINMANAGER_H
 #define CPPUNIT_PLUGIN_PLUGINMANAGER_H
 
-#include <cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
 
 #if !defined(CPPUNIT_NO_TESTPLUGIN)
 
@@ -10,7 +10,7 @@
 #pragma warning( disable: 4251 )  // X needs to have dll-interface to be used by clients of class Z
 #endif
 
-#include <cppunit/plugin/PlugInParameters.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/plugin/PlugInParameters.h>
 struct CppUnitTestPlugIn;
 
 CPPUNIT_NS_BEGIN

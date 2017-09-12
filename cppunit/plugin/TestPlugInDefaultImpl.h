@@ -1,11 +1,11 @@
 #ifndef CPPUNIT_PLUGIN_TESTPLUGINADAPTER
 #define CPPUNIT_PLUGIN_TESTPLUGINADAPTER
 
-#include <cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
 
 #if !defined(CPPUNIT_NO_TESTPLUGIN)
 
-#include <cppunit/plugin/TestPlugIn.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/plugin/TestPlugIn.h>
 
 CPPUNIT_NS_BEGIN
 

@@ -6,13 +6,13 @@
 #ifndef CPPUNIT_EXTENSIONS_HELPERMACROS_H
 #define CPPUNIT_EXTENSIONS_HELPERMACROS_H
 
-#include <cppunit/TestCaller.h>
-#include <cppunit/TestSuite.h>
-#include <cppunit/extensions/AutoRegisterSuite.h>
-#include <cppunit/extensions/ExceptionTestCaseDecorator.h>
-#include <cppunit/extensions/TestFixtureFactory.h>
-#include <cppunit/extensions/TestNamer.h>
-#include <cppunit/extensions/TestSuiteBuilderContext.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestCaller.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestSuite.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/extensions/AutoRegisterSuite.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/extensions/ExceptionTestCaseDecorator.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/extensions/TestFixtureFactory.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/extensions/TestNamer.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/extensions/TestSuiteBuilderContext.h>
 #include <memory>
 
 

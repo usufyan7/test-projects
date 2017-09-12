@@ -1,8 +1,8 @@
 #ifndef CPPUNIT_HELPER_TESTSUITEBUILDERCONTEXT_H
 #define CPPUNIT_HELPER_TESTSUITEBUILDERCONTEXT_H
 
-#include <cppunit/Portability.h>
-#include <cppunit/portability/CppUnitMap.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/CppUnitMap.h>
 #include <string>
 
 #if CPPUNIT_NEED_DLL_DECL

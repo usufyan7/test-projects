@@ -1,7 +1,7 @@
 #ifndef CPPUNIT_PLUGIN_DYNAMICLIBRARYMANAGER_H
 #define CPPUNIT_PLUGIN_DYNAMICLIBRARYMANAGER_H
 
-#include <cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
 #include <string>
 
 #if !defined(CPPUNIT_NO_TESTPLUGIN)

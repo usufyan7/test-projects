@@ -1,9 +1,9 @@
 #ifndef CPPUNIT_TOOLS_STRINGTOOLS_H
 #define CPPUNIT_TOOLS_STRINGTOOLS_H
 
-#include <cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
 #include <string>
-#include <cppunit/portability/CppUnitVector.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/CppUnitVector.h>
 
 
 CPPUNIT_NS_BEGIN

@@ -1,8 +1,8 @@
 #ifndef CPPUNIT_EXTENSIONS_AUTOREGISTERSUITE_H
 #define CPPUNIT_EXTENSIONS_AUTOREGISTERSUITE_H
 
-#include <cppunit/extensions/TestSuiteFactory.h>
-#include <cppunit/extensions/TestFactoryRegistry.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/extensions/TestSuiteFactory.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/extensions/TestFactoryRegistry.h>
 #include <string>
 
 CPPUNIT_NS_BEGIN

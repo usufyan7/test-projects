@@ -1,8 +1,8 @@
 #ifndef CPPUNIT_EXTENSIONS_TESTCASEDECORATOR_H
 #define CPPUNIT_EXTENSIONS_TESTCASEDECORATOR_H
 
-#include <cppunit/Portability.h>
-#include <cppunit/TestCase.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestCase.h>
 
 CPPUNIT_NS_BEGIN
 

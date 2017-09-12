@@ -1,7 +1,7 @@
 #ifndef CPPUNIT_EXTENSIONS_ORTHODOX_H
 #define CPPUNIT_EXTENSIONS_ORTHODOX_H
 
-#include <cppunit/TestCase.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/TestCase.h>
 
 CPPUNIT_NS_BEGIN
 

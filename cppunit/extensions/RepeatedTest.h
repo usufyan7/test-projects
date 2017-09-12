@@ -1,8 +1,8 @@
 #ifndef CPPUNIT_EXTENSIONS_REPEATEDTEST_H
 #define CPPUNIT_EXTENSIONS_REPEATEDTEST_H
 
-#include <cppunit/Portability.h>
-#include <cppunit/extensions/TestDecorator.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/extensions/TestDecorator.h>
 
 CPPUNIT_NS_BEGIN
 

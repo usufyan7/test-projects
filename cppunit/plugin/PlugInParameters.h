@@ -1,11 +1,11 @@
 #ifndef CPPUNIT_PLUGIN_PARAMETERS
 #define CPPUNIT_PLUGIN_PARAMETERS
 
-#include <cppunit/Portability.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/Portability.h>
 
 #if !defined(CPPUNIT_NO_TESTPLUGIN)
 
-#include <cppunit/portability/CppUnitDeque.h>
+#include <C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppunit/portability/CppUnitDeque.h>
 #include <string>
 
 CPPUNIT_NS_BEGIN
