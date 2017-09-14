@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding='ISO-8859-1' standalone='yes' ?>
 <TestRun>
   <FailedTests>
-    <FailedTest id="2">
-      <Name>TestBasicMath::testMultiply</Name>
+    <FailedTest id="1">
+      <Name>TestBasicMath::testAddition</Name>
       <FailureType>Assertion</FailureType>
       <Location>
         <File>TestBasicMath.cpp</File>
-        <Line>53</Line>
+        <Line>47</Line>
       </Location>
       <Message>assertion failed
-- Expression: 6 == mTestObj-&gt;Multiply(2, 3)
+- Expression: 5 == mTestObj-&gt;Addition(2, 3)
 </Message>
     </FailedTest>
   </FailedTests>
   <SuccessfulTests>
-    <Test id="1">
-      <Name>TestBasicMath::testAddition</Name>
+    <Test id="2">
+      <Name>TestBasicMath::testMultiply</Name>
     </Test>
   </SuccessfulTests>
   <Statistics>
