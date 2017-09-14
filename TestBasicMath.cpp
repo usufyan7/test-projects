@@ -89,7 +89,7 @@ int main(int argc, char* argv[])
 	CPPUNIT_NS::CompilerOutputter compileroutputter(&collectedresults, std::cerr);
 	compileroutputter.write();
 
-	// Output XML for Jenkins CPPunit plugin
+	// Output XML for Jenkins CPPunit plugin la la land
 	ofstream xmlFileOut("C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppTestBasicMathResults.xml");
 	XmlOutputter xmlOut(&collectedresults, xmlFileOut);
 	xmlOut.write();
