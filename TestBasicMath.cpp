@@ -90,7 +90,7 @@ int main(int argc, char* argv[])
 	compileroutputter.write();
 
 	// Output XML for Jenkins CPPunit plugin
-	ofstream xmlFileOut("cppTestBasicMathResults.xml");
+	ofstream xmlFileOut("C:/Users/umers/Documents/Visual Studio 2013/Projects/CPPUnitExample/cppTestBasicMathResults.xml");
 	XmlOutputter xmlOut(&collectedresults, xmlFileOut);
 	xmlOut.write();
 
